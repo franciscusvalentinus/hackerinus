@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086676250956",
+    "project_id": "hackerinus-1e972",
+    "storage_bucket": "hackerinus-1e972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086676250956:android:590f91c06ba57d38cf9fe9",
+        "android_client_info": {
+          "package_name": "com.uc.hackerinus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086676250956-iugdlpgqbbd28m1kq8th51u94lp6jhb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhU-UMZmxqldmxUIKgOf-d-eJ4yrpn6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086676250956-iugdlpgqbbd28m1kq8th51u94lp6jhb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
